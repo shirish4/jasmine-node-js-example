@@ -16,7 +16,7 @@ Run the following commands to setup the repository locally.
 
 - Fork this repository.
 
-- Click on Login with GitHub on [TAS](https://tas.lambdatest.com/login/)
+- Click on Login with GitHub on [TAS](https://tas.lambdatest.com/login/).
 
 - Select your desired organization.
   
