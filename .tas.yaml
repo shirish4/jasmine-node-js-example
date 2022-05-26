@@ -1,5 +1,4 @@
 ---
-# update
 framework: jasmine
 preMerge:
   pattern:
